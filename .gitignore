@@ -4,10 +4,13 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+=======
+>>>>>>> 9b1f530 (Hoàn thành bài tập tạo API Messages)
 
 # Runtime data
 pids
@@ -20,12 +23,19 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
+<<<<<<< HEAD
 *.lcov
+=======
+>>>>>>> 9b1f530 (Hoàn thành bài tập tạo API Messages)
 
 # nyc test coverage
 .nyc_output
 
+<<<<<<< HEAD
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+=======
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+>>>>>>> 9b1f530 (Hoàn thành bài tập tạo API Messages)
 .grunt
 
 # Bower dependency directory (https://bower.io/)
@@ -41,11 +51,16 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
 # TypeScript cache
 *.tsbuildinfo
+=======
+# Typescript v1 declaration files
+typings/
+>>>>>>> 9b1f530 (Hoàn thành bài tập tạo API Messages)
 
 # Optional npm cache directory
 .npm
@@ -53,9 +68,12 @@ web_modules/
 # Optional eslint cache
 .eslintcache
 
+<<<<<<< HEAD
 # Optional stylelint cache
 .stylelintcache
 
+=======
+>>>>>>> 9b1f530 (Hoàn thành bài tập tạo API Messages)
 # Optional REPL history
 .node_repl_history
 
@@ -65,6 +83,7 @@ web_modules/
 # Yarn Integrity file
 .yarn-integrity
 
+<<<<<<< HEAD
 # dotenv environment variable files
 .env
 .env.*
@@ -137,3 +156,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+=======
+# dotenv environment variables file
+.env
+
+# next.js build output
+.next
+>>>>>>> 9b1f530 (Hoàn thành bài tập tạo API Messages)
